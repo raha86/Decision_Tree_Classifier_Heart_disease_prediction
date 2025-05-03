@@ -32,6 +32,8 @@ Build a model to predict heart disease based on the given dataset.
 * Checked correlation of independent variables with target variable.
   ![image](https://github.com/user-attachments/assets/9f7fcdf9-7298-49e4-8cf4-c3772b2584f3)
 2. Model Building
+  ![image](https://github.com/user-attachments/assets/d2de7bd7-732e-4cdc-9f88-f568fd1e66f9)
+
 3. Model Evaluation:
 * Used Accuracy Score to evaluate the model. Also used Confusion matrix to interpret the accuracy score.
   ![image](https://github.com/user-attachments/assets/c1edbff9-e09d-4d7a-a9c4-e4dfb95215a4)
